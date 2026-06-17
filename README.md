@@ -6,7 +6,7 @@ Investigative data analysis of public Denver crime data from Kaggle.
 ### Categorical Comparisons with Bar Charts
 
 #### What is the breakdown of incidents by offense category?
-<img src="/assets/IncidentMetrics_IncidentsByOffenseCategory[BarCharts].png" width="750">
+<img src="/blob/main/assets/IncidentMetrics_IncidentsByOffenseCategory[BarCharts].png" width="750">
 
 #### What is the breakdown of incidents by district *and* offense category?
 <img src="/assets/IncidentMetrics_IncidentsByDistrict&OffenseCategory[BarCharts].png" width="1000">
